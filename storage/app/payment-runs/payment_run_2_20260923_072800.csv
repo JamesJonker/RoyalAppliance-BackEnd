@@ -1,0 +1,10 @@
+employee_number,employee_name,bank_name,account_holder_name,account_number,account_type,branch_code,payment_method,amount
+ROY01,"CHARLENE JORDAAN (SMITH)",Capitec,"C Jordaan",1356597511,"Savings Account",470010,EFT,14850.00
+ROY02,"JAMES JONKER",ABSA,"J Jonker",4108664946,"Current Account",632005,EFT,17707.88
+ROY03,"ANANDRE MATHEWS",Capitec,"Anandre Charles Mathews",1592087270,"Savings Account",470010,EFT,6435.00
+ROY04,"CAROLINE MAKWELA",Capitec,"Makwela Maite Caroline",1182572683,"Savings Account",470010,EFT,6435.00
+ROY08,"NELISWA MDEBELE",Capitec,"Neliswa Londiwe Ndebele",2311742791,"Savings Account",470010,EFT,5940.00
+ROY09,"SIBUSISO WILSON NGOMA",Capitec,"S W Ngoma",1381667439,"Savings Account",470010,EFT,6045.00
+ROY10,"ARMANDT VAN WYK",Capitec,"A vna wyk",2241931450,"Savings Account",470010,EFT,7585.00
+ROY12,"FREEMAN THABO BANI",Capitec,"FTT Bani",2129171881,"Savings Account",470010,EFT,6435.00
+ROY14,"MMATHAPELO SHIBASA",Capitec,"M Shibasa",1718229868,"Savings Account",470010,EFT,5940.00
